@@ -122,20 +122,5 @@ int main()
 
 <img width="1386" height="805" alt="image" src="https://github.com/user-attachments/assets/72db2079-94a5-4f70-9bf4-dbcf270992e2" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # RESULT:
 The programs are executed successfully.
