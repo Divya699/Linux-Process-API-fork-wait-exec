@@ -1,5 +1,4 @@
-<img width="1386" height="805" alt="image" src="https://github.com/user-attachments/assets/7ddd901f-f96b-4564-a14c-fd263ee5290a" /># Linux-Process-API-fork-wait-exec-
-Ex02-Linux Process API-fork(), wait(), exec()
+
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
 
